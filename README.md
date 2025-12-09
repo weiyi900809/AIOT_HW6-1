@@ -1,5 +1,5 @@
-# AIOT_HW6-1
-Hw6
+# AIOT_HW6-1  SQLite + Streamlit 
+
 
 ----
 
